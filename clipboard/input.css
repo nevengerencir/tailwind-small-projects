@@ -12,7 +12,7 @@
 }
 
 .section-container {
-  @apply max-w-6xl mx-auto text-center;
+  @apply max-w-6xl mx-auto text-centers;
 }
 .button {
   @apply p-4 px-8 rounded-full shadow-lg duration-200 hover:opacity-80;
